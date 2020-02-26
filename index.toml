@@ -1,12 +1,12 @@
-[[private-pypi]]
+[[pkgs]]
+type = "github"
 distrib = "private-pypi"
 package = "private_pypi-0.1.1-py3-none-any"
 ext = "whl"
 sha256 = "32478425ceeb0a552ce4b57c77a65dcfc51f56ac6ec04afff1c80becd5e38a9e"
-type = "github"
 url = "https://api.github.com/repos/private-pypi-test-org/create-repo-debug-18/releases/assets/18071366"
 
-[private-pypi.meta]
+[pkgs.meta]
 name = "private-pypi"
 version = "0.1.1"
 filetype = "bdist_wheel"
@@ -35,15 +35,15 @@ description_content_type = "text/markdown"
 protocol_version = "1"
 distrib = "private-pypi"
 sha256 = "32478425ceeb0a552ce4b57c77a65dcfc51f56ac6ec04afff1c80becd5e38a9e"
-[[private-pypi]]
+[[pkgs]]
+type = "github"
 distrib = "private-pypi"
 package = "private-pypi-0.1.1.tar"
 ext = "gz"
 sha256 = "b694ae5ab296c0f94a4aeb0e2b64684907af8b06cd5bc8d3a0b6f1c48a136c5a"
-type = "github"
 url = "https://api.github.com/repos/private-pypi-test-org/create-repo-debug-18/releases/assets/18071364"
 
-[private-pypi.meta]
+[pkgs.meta]
 name = "private-pypi"
 version = "0.1.1"
 filetype = "sdist"
