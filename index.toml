@@ -4,7 +4,7 @@ distrib = "private-pypi"
 package = "private_pypi-0.1.1-py3-none-any"
 ext = "whl"
 sha256 = "32478425ceeb0a552ce4b57c77a65dcfc51f56ac6ec04afff1c80becd5e38a9e"
-url = "https://api.github.com/repos/private-pypi-test-org/create-repo-debug-18/releases/assets/18071366"
+url = "https://api.github.com/repos/private-pypi-github-test-org/create-repo-debug-18/releases/assets/18071366"
 
 [pkgs.meta]
 name = "private-pypi"
@@ -41,7 +41,7 @@ distrib = "private-pypi"
 package = "private-pypi-0.1.1.tar"
 ext = "gz"
 sha256 = "b694ae5ab296c0f94a4aeb0e2b64684907af8b06cd5bc8d3a0b6f1c48a136c5a"
-url = "https://api.github.com/repos/private-pypi-test-org/create-repo-debug-18/releases/assets/18071364"
+url = "https://api.github.com/repos/private-pypi-github-test-org/create-repo-debug-18/releases/assets/18071364"
 
 [pkgs.meta]
 name = "private-pypi"
